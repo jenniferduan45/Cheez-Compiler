@@ -1,0 +1,9 @@
+/*
+testing array access                            
+*/
+
+int main()
+{
+    bool[] a = [true, false];
+    bool b = a[0];
+}

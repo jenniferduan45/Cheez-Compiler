@@ -1,0 +1,18 @@
+struct Person
+{
+    int age;
+    string name;
+    float salary;
+};
+
+int main()
+{
+    Person ken;
+    ken.age = 22;
+    ken.name = 'Ken';
+    ken.salary = 10000.0;
+
+    prints(ken.name);
+    printi(ken.age);
+
+}

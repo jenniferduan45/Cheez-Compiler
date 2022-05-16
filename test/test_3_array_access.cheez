@@ -1,0 +1,9 @@
+/*
+testing array access                            
+*/
+
+int main()
+{
+    int[] a = [1,2,3];
+    printi(a[2]);
+}

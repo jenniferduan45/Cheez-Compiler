@@ -1,0 +1,14 @@
+/*
+testing control flow if                        
+*/
+
+int main()
+{   
+    int a = 0;
+    if (a > 1) {
+        printi(a);
+    } else {
+        printi(a);
+    }
+    return 0;
+}

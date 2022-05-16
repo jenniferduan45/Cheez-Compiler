@@ -1,0 +1,9 @@
+/*
+testing array access                            
+*/
+
+int main()
+{
+    float[] a = [2.3, 1.5];
+    printf(a[1]);
+}

@@ -1,0 +1,9 @@
+/*
+testing printing integer                            
+*/
+
+int main()
+{
+    bool a = true;
+    printb(a);
+}

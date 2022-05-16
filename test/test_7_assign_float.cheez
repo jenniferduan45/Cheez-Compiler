@@ -1,0 +1,10 @@
+
+int main()
+{   
+    bool a = true;
+    if (a) {
+        printi(1);
+    } else {
+        printi(0);
+    }
+}

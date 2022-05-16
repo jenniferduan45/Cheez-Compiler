@@ -1,0 +1,6 @@
+
+int main()
+{   
+    bool a = true;
+    printi(1);
+}

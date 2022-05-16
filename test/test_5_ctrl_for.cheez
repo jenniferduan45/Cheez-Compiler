@@ -1,0 +1,11 @@
+/*
+testing control flow for loop                          
+*/
+
+int main()
+{   
+    for (int i = 0; i < 3; i = i + 1) {
+        printi(i);
+    }
+    return 0;
+}

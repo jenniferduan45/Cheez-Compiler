@@ -1,0 +1,13 @@
+/*
+testing function return                          
+*/
+
+int main()
+{
+    int a = foo();
+    printi(a);
+}
+
+int foo() {
+    return 3;
+}

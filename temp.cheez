@@ -1,0 +1,33 @@
+/*
+temporary test cases for IR
+
+    1. integer operations
+        1.1 div / 0         NOT OK, OVERFLOW
+        1.2
+    2. strings
+        prints
+*/
+
+struct Test{
+	int a;
+	float b;
+	bool c;
+};
+
+int main()
+{
+    // string e = "hello";
+    // prints(e);
+
+    Test x;
+	  x.a = 1;
+	  x.b = 4.5;
+	  x.c = true;
+    printf(x.b);
+
+    int[] arr = [1, 2, 3];
+    arr[0] = 5;
+    printi(arr[0]);
+
+
+}

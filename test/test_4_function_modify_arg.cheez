@@ -1,0 +1,12 @@
+
+int main()
+{
+    int a = 10;
+    foo(a);
+
+}
+
+int foo(int a) {
+    a = a * 2;
+    printi(a);
+}

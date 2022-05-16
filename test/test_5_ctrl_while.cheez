@@ -1,0 +1,12 @@
+/*
+testing control flow while loop                          
+*/
+
+int main()
+{   
+    int a = 0;
+    while (a < 3) {
+        printi(a);
+        a = a + 1;
+    }
+}

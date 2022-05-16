@@ -1,0 +1,9 @@
+/*
+testing printing string                            
+*/
+
+int main()
+{
+    string a = "hello world";
+    prints(a);
+}

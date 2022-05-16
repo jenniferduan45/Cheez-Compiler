@@ -1,0 +1,13 @@
+
+int main()
+{   
+    int a = 1;
+    int b = 5;
+
+    if (b > a) {
+        printi(1);
+    } else {
+        printi(0);
+    }
+    return 0;
+}

@@ -1,0 +1,10 @@
+/*
+testing printing boolean                            
+*/
+
+int main()
+{
+    
+    int a = 1024;
+    printi(a);
+}
